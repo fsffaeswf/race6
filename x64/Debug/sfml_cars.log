@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (race.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Лиан\sfml_cars\enemy.h(17,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\enemy.h(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\enemy.h(29,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Лиан\sfml_cars\enemy.h(32,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Лиан\sfml_cars\enemy.h(36,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Лиан\sfml_cars\enemy.h(40,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Лиан\sfml_cars\explosion.h(28,54): warning C4244: =: преобразование "sf::Int32" в "float", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(18,46): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(18,32): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(23,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(41,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(58,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  sfml_cars.vcxproj -> D:\Лиан\sfml_cars\x64\Debug\sfml_cars.exe
